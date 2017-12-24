@@ -1,6 +1,6 @@
 # Plenary 11 session proposal
 
-**Group name**: Provenance Patterns Working Group
+**Group name**: Provenance Patterns Working Group  
 **Meeting title**: Provenance Patterns WG Working meeting
 
 
@@ -13,6 +13,12 @@
   * presentation & discussion on group's methods of operating
 
 **Links to materials**:
+- **The group's Charter outline**
+  - https://github.com/RDAProvIG/WGplanning/blob/master/CaseContent/Charter.md)
+- **Full Charter in Word Doc**
+    - https://github.com/RDAProvIG/WGplanning/blob/master/ProvWGcase.docx)
+- **Provenance Patterns Database**
+  - http://patterns.promsns.org)
 
 
 ### Meeting objectives:
@@ -39,7 +45,7 @@
 
 - People should:
   - be familiar with [the group's Charter outline](https://github.com/RDAProvIG/WGplanning/blob/master/CaseContent/Charter.md)
-    - ([full Charter in Word Doc](https://github.com/RDAProvIG/WGplanning/blob/master/ProvWGcase.docx))
+    - [full Charter in Word Doc](https://github.com/RDAProvIG/WGplanning/blob/master/ProvWGcase.docx)
   - have looked at the [Provenance Patterns Database](http://patterns.promsns.org)
 
 **Group chair serving as contact person**: Dave Dubin
@@ -51,8 +57,8 @@
 3. Vocabulary Services Interest Group
 
 
-**Estimate of room capacity**: 25-30
-**Type of meeting**: working
-**Group maturity**: 0-6 months
-**Student support for note-taking**: Y
-**Remote participation support**: Y
+**Estimate of room capacity**: 25-30  
+**Type of meeting**: working  
+**Group maturity**: 0-6 months  
+**Student support for note-taking**: Y  
+**Remote participation support**: Y  
