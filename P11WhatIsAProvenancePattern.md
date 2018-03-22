@@ -12,7 +12,7 @@ header-includes:
 - A provenance pattern is an abstract generalization of a solution for a use case.
 - More generally, a solution pattern represents an interpretive response to a use case, 
   highlighting key decisions and recommendations.
-- Use case example from the TDWG IG: How should we represent agent roles in provenance documentation?
+- Use case example from the TDWG WG: How should we represent agent roles in provenance documentation?
 - Scenario: an agency lends a physical specimen to a researcher. How shall we document the agency's
   role in contributing to the research by providing the loan?
 - We have IDs for the loaned specimen, the lending institution, and the receiving institution. We
