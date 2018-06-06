@@ -79,8 +79,10 @@ Paolo Missier (unlikely)
 Nick's emails
 
 #### Avoid conflict with the following group (1)
+Storage Services Definitions WG
 
 #### Avoid conflict with the following group (2)
+Vocabulary Services IG
 
 #### Avoid conflict with the following group (3)
 
